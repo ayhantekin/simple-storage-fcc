@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.6+commit.11564f7e"
+		"version": "0.8.7+commit.e28d00a7"
 	},
 	"language": "Solidity",
 	"output": {
@@ -108,7 +108,7 @@
 		"compilationTarget": {
 			"SimpleStorage.sol": "SimpleStorage"
 		},
-		"evmVersion": "berlin",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
