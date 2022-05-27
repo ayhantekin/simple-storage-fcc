@@ -1,28 +1,10 @@
 {
 	"compiler": {
-		"version": "0.8.0+commit.c7dfd78e"
+		"version": "0.8.7+commit.e28d00a7"
 	},
 	"language": "Solidity",
 	"output": {
 		"abi": [
-			{
-				"inputs": [
-					{
-						"internalType": "string",
-						"name": "_name",
-						"type": "string"
-					},
-					{
-						"internalType": "uint256",
-						"name": "_favoriteNumber",
-						"type": "uint256"
-					}
-				],
-				"name": "addPerson",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
 			{
 				"inputs": [
 					{
@@ -108,7 +90,7 @@
 		"compilationTarget": {
 			"SimpleStorage.sol": "SimpleStorage"
 		},
-		"evmVersion": "istanbul",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -121,11 +103,11 @@
 	},
 	"sources": {
 		"SimpleStorage.sol": {
-			"keccak256": "0xc4d2d7e784cca3dffa8878ec8638c9654e9ea0bbe5ab6ba36d9a196a9aad69b5",
+			"keccak256": "0x01c49080eb71c834b4888eccdd38efc538bdfa1bbc1478771ee1318997454976",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bee891232866d92c153519bbbde2f12783e1f2bed698114f15bfa003973376a4",
-				"dweb:/ipfs/QmQRccypx74af83L2uPawJCiLmjoNWR4M47dP786nZBXjf"
+				"bzz-raw://4bb9fbe59f5a683f64c7b29ebc83e377c21e9363f5663dcad92abd2cf22564cc",
+				"dweb:/ipfs/QmWRqZgBu6D1stXCgVBpA1uTY1yT3r7WYQEb15UpbzuwhM"
 			]
 		}
 	},
